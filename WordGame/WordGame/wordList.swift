@@ -2,7 +2,6 @@
 //  wordpair.swift
 //  WordGame
 //
-//  Created by Nguyen Thoa on 8/7/23.
 //
 import SwiftUI
 
