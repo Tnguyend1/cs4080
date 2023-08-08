@@ -1,5 +1,5 @@
 //
-//  wordpair.swift
+//  wordList.swift
 //  WordGame
 //
 //
